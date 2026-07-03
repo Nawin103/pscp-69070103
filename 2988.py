@@ -1,4 +1,5 @@
 """การตรวจสอบบัตรประชาชน"""
 id = int(input())
 
-if
+if id == 0
+    print("yes")
