@@ -22,8 +22,8 @@ AI อาจช่วยตรวจ grammar, formatting หรือควา�
 
 | Item | Answer |
 |---|---|
-| OJ problem number/title | OJ3036 - [LEARNING LOGS] ปราสาท |
-| OJ submission ID, if submitted | 	602294 |
+| OJ problem number/title | OJ3031 - [LEARNING LOGS] Ink |
+| OJ submission ID, if submitted | 602402 |
 | OJ status | Pass |
 
 ---
